@@ -1,1 +1,0 @@
-# bercerita-di-sparta
