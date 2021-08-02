@@ -1,0 +1,13 @@
+KEHIDUPAN DI MASA-MASA KEJAYAAN DEWA YUNANI
+A Story by Kelompok 12 SPARTA HMIF 2020
+
+contoh cerita:
+dewa zeus makan ayam di rumah
+(18219117 - Tugus) -> ini wajib diisi!
+
+commit message:
+"Lanjutan cerita ke-i"
+atau
+"Awal Cerita" atau "Commit Terakhir"
+
+---- BATAS SUCI ----
